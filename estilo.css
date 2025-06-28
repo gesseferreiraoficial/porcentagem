@@ -1,0 +1,49 @@
+/* GLOBAL */
+
+body {
+        background-color:#077391;
+        color: #fff;
+        text-align: center;
+        font-size: 18px;
+}
+
+span {
+    color: #56badf;
+}
+
+/*SECÃO TOPO */
+
+.div-topo {
+    font-weight: bold;
+    width: 40%;
+    margin: 0 auto;
+}
+
+.div-lista {
+    width: 30%;
+    text-align: left;
+    margin: 0 auto
+}
+
+.a-href {
+    color: #56badf;
+}
+
+/*HIPER GAMES*/
+
+.body-hiper-games {
+    background-color: black;
+    margin: 0 auto;
+}
+
+.img-hiper-games {
+    width: 100%;
+}
+
+.p-hiper-games {
+    width: 80%;
+    margin: 60px;
+    padding: 10px 10px 5px;
+    border: 1px solid aqua;
+    border-radius: 4px;
+}
